@@ -1,0 +1,25 @@
+{
+  "name": "toast_plugin",
+  "version": "1.0.0",
+  "description": "denglu",
+  "cordova": {
+    "id": "toast_plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tzygithubs/tost.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "tzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tzygithubs/tost/issues"
+  },
+  "homepage": "https://github.com/tzygithubs/tost#readme"
+}
